@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700&display=swap');
+body{
+    font-family: 'Quicksand',sans-serif;
+}
+h2, h3 {
+    color: red;
+ }
+h1{
+    color: brown;
+}
+footer{
+    padding: 20px;
+    color: white;
+    background-color: brown;
+}
+nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+
+ }
+ nav a:hover{
+     font-weight: bold;
+ }
+ 
